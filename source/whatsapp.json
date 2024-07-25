@@ -1,0 +1,56 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "TechTitan27",
+    "Theme": "QUEEN_TRUDY-MD",
+    "LANGCODE": "en",
+    "STRINGS": {  
+        "updater": {    
+            "UPDATE": "*Your bot is already on latest version Sir*",
+            "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Successfully Updated!*"
+        },    
+        "global": {   
+            "botName": "Queen_Trudy-Md",
+            "body": "As always Sir.",
+          "greet2" : "Hello Sir",
+            "pic1": "https://file.io/2yt8667DSJew",
+            "pic2": "https://file.io/2yt8667DSJew",
+            "pic3": "https://file.io/2yt8667DSJew",
+            "pic4": "https://file.io/2yt8667DSJew",
+            "pic5": "https://file.io/g7NB2rdeC76o",
+            "pic6": "https://file.io/Sg67nbhYqxox",
+            "pic7": "https://file.io/Sg67nbhYqxox",
+             "greet" : "Sir", 
+           "dotbody" : "Oh, hello sir..",
+            "promote": "Admin Role Privileged",
+            "pmallow": "*Hii,This is QUEEN_TRUDY-MDr*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN_TRUDY-MD",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s).",
+            "permited": "Hii ${tname}*\n\nNow You are permitted by my owner to pm now.\n\n *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN_TRUDY-MD*", 
+            "revoked" : "*Hii ${tname}*\n\nYour pm permit permission has been prevoked now.\n\n _ 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 QUEEN_TRUDY-MD",
+            "demote": "Uhh,Admin Role Taken back",
+            "antlink": "Link Detected.\n*Good Bye Bro*",
+            "session": "\n*This is your session.sam.json,keep it safe",
+            "mention": " Please atleast mention any user bro.",
+            "title": "QUEEN_TRUDY-MD",
+            "footer": "QUEEN_TRUDY-MD",
+            "by": "Made by: *TechTitan27*",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Done ✓",
+            "dot": "Hii Sir, Did you mean *-help?*",
+            "couple_male": "*I dont want to die alone,I want a female yaar*",
+            "couple_female": "*I dont want to die alone,I want a male yaar*",
+            "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
+            "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 𝑆𝑖𝑟.❗",
+            "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+            "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
+            "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
+            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
+            "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+        },
+        "error": {
+            "text": "*Sir, there is a potentially fatal buildup*"
+        }
+    }
+  }
+  

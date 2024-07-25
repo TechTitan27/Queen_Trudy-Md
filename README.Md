@@ -59,10 +59,6 @@
     <a href='https://dashboard.heroku.com/new?template=https://github.com/TechTitan27/Queen_Trudy-Md' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
-### DEPLOY ON RAILWAY
-1. Deploy.
-    <br>
-    <a href='https://railway.com/github/TechTitan27/Queen_Trudy-Md target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## QUEEN_TRUDY-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 

@@ -2,19 +2,19 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ANITA-+V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•QUEEN_+TRUDY-+Md;MULTI-DEVICE+WHATSAPP+BOT." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <img src="https://file.io/2yt8667DSJew"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{TechTitan27}/count.svg" alt="TechTitan27 :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V2?color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/DeeCeeXxx/Queen_Anita-V2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeeCeeXxx%2FQueen_Anita-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/TechTitan27/followers"><img title="Followers" src="https://img.shields.io/github/followers/TechTitan27?color=red&style=flat-square"></a>
+<a href="https://github.com/TechTitan27/Queen_Trudy-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TechTitan27/Queen_Trudy-Md?color=blue&style=flat-square"></a>
+<a href="https://github.com/TechTitan27/Queen_Trudy-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TechTitan27/Queen_Trudy-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/TechTitan27/Queen_Trudy-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TechTitan27/Queen_Trudy-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/TechTitan27/Queen_Trudy-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/TechTitan27/Queen_Trudy-Md?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechTitan27%2FQueen_Trudy-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/TechTitan27/Queen_Trudy-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -27,21 +27,11 @@
 
 <a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. GET SESSION ID HERE
 
-### SERVER 1
- 
-<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
-
-### SERVER 2 
 ### GET SESSION ID HERE
 
-<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
-
-<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
-### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
+<a href="https://replit.com/@Tech765/QUEENTRUDY-MD-pair?v=1"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 ### DEPLOY ON RENDER
@@ -70,11 +60,11 @@
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
-    <a href='https://replit.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/TechTitan27/Queen_Trudy-Md target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ### DEPLOY ON RAILWAY
 1. Deploy.
     <br>
-    <a href='https://railway.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
+    <a href='https://railway.com/github/TechTitan27/Queen_Trudy-Md target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
 ## QUEEN_TRUDY-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
@@ -82,7 +72,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/233257938281"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/233257938281"><img src="https://img.shields.io/badge/Contact TechTitan27-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029Vaf5BAMLo4hcw3HYv43x"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
@@ -106,20 +96,16 @@
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
   
-  #### ```DAVID CYRIL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DeeCeeXxx/count.svg)
+  #### ```TechTitan27 PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/TechTitan27/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## HELPERS = WASI
-
-## Support
-
-SUPPORT CHANNEL: <a href= "(https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
+
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/TechTitan27)
 <b>Version -> 2.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

@@ -31,7 +31,7 @@
 
 ### GET SESSION ID HERE
 
-<a href="https://replit.com/@Tech765/QUEENTRUDY-MD-pair?v=1"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://suhail-md-vtsf.onrender.com/code"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 ### DEPLOY ON RENDER

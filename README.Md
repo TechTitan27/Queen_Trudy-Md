@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•QUEEN_+TRUDY-+Md;MULTI-DEVICE+WHATSAPP+BOT." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://file.io/2yt8667DSJew"/> 
+<img src="https://i.ibb.co/SKkqKQc/2024090513224501.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{TechTitan27}/count.svg" alt="TechTitan27 :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/TechTitan27/followers"><img title="Followers" src="https://img.shields.io/github/followers/TechTitan27?color=red&style=flat-square"></a>
